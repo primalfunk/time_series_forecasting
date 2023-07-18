@@ -1,0 +1,1 @@
+Ongoing project to apply a variety of techniques in time series forecasting to real world problems (no proprietary data shared), and an evaluation of those as to how effectively they produce predictive data.

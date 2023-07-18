@@ -1,0 +1,5 @@
+/excel_docs/
+/__pycache__/
+
+no_share.py
+predictions.csv
